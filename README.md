@@ -1,5 +1,5 @@
 # KolyskaNewtona-Towers
-Dwa zadania do wykonania w ramach zadania rekrutacyjnego. Na oba zadania został wyznaczony łączny czas 3 godzin.
+Dwa zadania do wykonania w ramach zadania rekrutacyjnego. Na oba zadania został wyznaczony łączny czas 3 godzin. Wersja Unity 2019.4.3f1
 
 
 Zadanie 1 - kołyska Newton'a
